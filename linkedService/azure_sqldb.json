@@ -2,7 +2,7 @@
 	"name": "azure_sqldb",
 	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
-		"description": "Linked used to connect from source to target to be used in data flow",
+		"description": "Linked used to connect ADF to source to read the data",
 		"annotations": [],
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
