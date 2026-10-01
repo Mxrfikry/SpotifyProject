@@ -1,6 +1,7 @@
 {
 	"name": "json_dynamic",
 	"properties": {
+		"description": "source",
 		"linkedServiceName": {
 			"referenceName": "datalake_target",
 			"type": "LinkedServiceReference"

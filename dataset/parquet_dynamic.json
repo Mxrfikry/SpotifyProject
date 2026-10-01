@@ -1,6 +1,7 @@
 {
 	"name": "parquet_dynamic",
 	"properties": {
+		"description": "target",
 		"linkedServiceName": {
 			"referenceName": "datalake_target",
 			"type": "LinkedServiceReference"
